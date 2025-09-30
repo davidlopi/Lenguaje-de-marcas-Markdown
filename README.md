@@ -1,4 +1,5 @@
 # Receta de Tarta de Manzana
+<!-- para una imagen, poner entre corchetes un texto cualquiera y a continuación, sin espacios, entre parentesis la ruta de la imagen -->
    ![tartamanzana](/img/tartamanzana.jpeg)
 ## Ingredientes:
 - 2 tazas de harina
@@ -20,8 +21,8 @@
 7. Haz pequeñas aberturas en la parte superior para que salga el vapor.
 8. Bate el huevo y cepilla la parte superior de la tarta.
 9. Hornea durante 40-45 minutos o hasta que esté dorada.
-10. Deja enfriar antes de servir. ¡*Bon appétit*!
-
+10. Deja enfriar antes de servir.
+    
 ## Consejos adicionales:
 - Puedes agregar una bola de helado de vainilla como acompañamiento.
 - Asegúrate de que las manzanas estén bien maduras para obtener el mejor sabor.
