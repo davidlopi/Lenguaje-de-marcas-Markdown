@@ -1,5 +1,5 @@
 # Receta de Tarta de Manzana
-   !(tartamanzana.jpeg)
+   ![tartamanzana](/img/tartamanzana.jpeg)
 ## Ingredientes:
 - 2 tazas de harina
 - 1 taza de azúcar
